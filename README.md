@@ -6,6 +6,7 @@ With its well-designed network architecture, the deep learning-based infrared an
 Additionally, we introduced the Cyclic Self-Supervised Feature Refinement (CSSFR), which under the constraint of self-supervised loss, minimizes redundant information within the feature flow and ensures the preservation of salient feature through the cyclic input of decoupled features. Concurrently, we developed the Iterative Attention Module (IAM), utilizing the unique gating mechanism of LSTM to capture feature changes across successive iterations, thereby driving the model to cultivate more discriminative feature representations. Extensive experiments revealed that PIDFusion outperforms SOTA methods in terms of both efficiency and cost-effectiveness, through static statistics and high-level vision tasks. 
 # :triangular_flag_on_post: Illustration of our PIDFusion
 ![The framework of PIDFusion](Image/Fig2.png)
+![The framework of PIDFusion](Image/Fig1.png)
 
 # :triangular_flag_on_post: Testing
 If you want to infer with our PIDFusion and obtain the fusion results in our paper, please run ```test.py```.
