@@ -12,7 +12,7 @@ Additionally, we introduced the Cyclic Self-Supervised Feature Refinement (CSSFR
 
 | ![The framework of PIDFusion](Image/Fig1.png) |
 |:-------------------------------------------:|
-| **Figure 2.** The detailed structure of the PID controller module |
+| **Figure 2.**  Demonstration of PIDFusion performance |
 
 # :triangular_flag_on_post: Testing
 If you want to infer with our PIDFusion and obtain the fusion results in our paper, please run ```test.py```.
