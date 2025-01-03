@@ -128,7 +128,7 @@ model = torch.load(model_path)
 count_parameters_in_MB(model)
 image_IR_list = prepare_data(r'D:\Image_Data\IRVI\AUIF Datasets\16x\Test_FLIR/')
 image_VIS_list = prepare_data1(r'D:\Image_Data\IRVI\AUIF Datasets\16x\Test_FLIR/')
-save_image_path = os.path.join(r'./1/')
+save_image_path = os.path.join(r'./Output/')
 if os.path.exists(save_image_path):
     pass
 else:
