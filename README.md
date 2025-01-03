@@ -16,7 +16,7 @@ Additionally, we introduced the Cyclic Self-Supervised Feature Refinement (CSSFR
 
 # :triangular_flag_on_post: Testing
 If you want to infer with our PIDFusion and obtain the fusion results in our paper, please run ```test.py```.
-Then, the fused results will be saved in the ```'./Fused image/'``` folder.
+Then, the fused results will be saved in the ```'./Output/'``` folder.
 
 # :triangular_flag_on_post: Training
 You can change your own data address in ```dataset.py``` and use ```train.py``` to retrain the method.
