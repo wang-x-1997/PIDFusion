@@ -1,5 +1,6 @@
 # PIDFusion
 Source code of the paper ***"PID Controller-Driven Network for Image Fusion"*** which has been accepted by TMM.
+- Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma
 
 # Abstract
 With its well-designed network architecture, the deep learning-based infrared and visible image fusion (IVIF) method shows its efficiency and effectiveness by realizing a fine feature extraction and fusion mechanism. However, disparities in cross-modal features often result in an imbalance between texture details and contextual information, causing detailed features to be overshadowed by prevailing contextual information. To tackle this issue, this study introduces PIDFusion, a fusion model driven by a PID controller, designed to dynamically optimize cross-modal feature fusion deviations. The core of PIDFusion is the dynamic adaptation capability of the PID controller, which facilitates real-time corrections for deviations encountered during the fusion process, thereby maintaining a harmonious balance between texture details and contextual information. 
