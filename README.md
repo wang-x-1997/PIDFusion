@@ -1,5 +1,6 @@
 # PIDFusion
 Source code of the paper ***"PID Controller-Driven Network for Image Fusion"*** which has been accepted by TMM.
+- [[Paper](https://ieeexplore.ieee.org/document/10980467)]
 - Xue Wang, Wenhua Qian, Zheng Guan, Jinde Cao, RunZhuo Ma
 
 # Abstract
